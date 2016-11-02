@@ -24,3 +24,4 @@ for (temp in fahr){
     print(paste("Fahrenheit temperatures: ",kelvin))
   }  
 }
+#[TODO: Duygu] Add Rainfall processing climate analysis tool.
