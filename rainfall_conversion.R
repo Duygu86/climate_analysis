@@ -9,5 +9,4 @@ mm<-inches * 25.4
 return(mm)
 
 }
-
-#[TODO: developer A] Add inches to cm conversion function.
+#[TODO: Team lead] Hire a new developer.
